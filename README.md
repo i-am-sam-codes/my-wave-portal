@@ -13,3 +13,5 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+--------------------------------------------------------------------------------
+Simple dapp that lets users connect MetaMask wallet and send a wave 👋
